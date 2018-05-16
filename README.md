@@ -2,4 +2,4 @@
 
 some lighting demos, don't use any framework, just pure C.
 
-## Thanks to @miloyip
+## Thanks to @miloyip tutorials
