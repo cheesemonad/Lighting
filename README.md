@@ -17,8 +17,8 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/csonder/crender/blob/master/results/bar_1.png" height="200" width="200" >
 <img src="https://github.com/csonder/crender/blob/master/results/foo_1.png" height="200" width="200" >
+<img src="https://github.com/csonder/crender/blob/master/results/bar_1.png" height="200" width="200" >
 <img src="https://github.com/csonder/crender/blob/master/results/sierpinski.png" height="200" width="200" >
 </div>
 
