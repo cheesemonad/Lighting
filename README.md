@@ -17,9 +17,14 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/csonder/crender/blob/master/results/foo_1.png" height="200" width="200" >
 <img src="https://github.com/csonder/crender/blob/master/results/bar_1.png" height="200" width="200" >
+<img src="https://github.com/csonder/crender/blob/master/results/foo_1.png" height="200" width="200" >
 <img src="https://github.com/csonder/crender/blob/master/results/sierpinski.png" height="200" width="200" >
+</div>
+
+<div align="center">
+<img src="https://github.com/csonder/crender/blob/master/results/reflect_1.png" height="300" width="300" >
+<img src="https://github.com/csonder/crender/blob/master/results/rfrrfl_1.png" height="250" width="250">
 </div>
 
 ### More files will updated soon.
