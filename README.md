@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/csonder/crender/blob/master/results/reflect_1.png" height="300" width="300" >
+<img src="https://github.com/csonder/crender/blob/master/results/reflect_1.png" height="250" width="250" >
 <img src="https://github.com/csonder/crender/blob/master/results/rfrrfl_1.png" height="250" width="250">
 </div>
 
